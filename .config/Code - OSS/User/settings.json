@@ -1,0 +1,8 @@
+{
+    "workbench.activityBar.location": "top",
+    "workbench.colorTheme": "Dracula Theme",
+    "window.customTitleBarVisibility": "windowed",
+    "terminal.external.linuxExec": "kitty",
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono'",
+    "python.createEnvironment.trigger": "off"
+}

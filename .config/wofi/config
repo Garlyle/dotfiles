@@ -1,0 +1,6 @@
+mode=drun
+allow_images=true
+location=left
+width=250
+height=700
+insensitive=true

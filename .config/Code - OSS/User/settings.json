@@ -4,5 +4,16 @@
     "window.customTitleBarVisibility": "windowed",
     "terminal.external.linuxExec": "kitty",
     "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono'",
-    "python.createEnvironment.trigger": "off"
+    "python.createEnvironment.trigger": "off",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.settings.applyToAllProfiles": [],
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
+    "window.menuBarVisibility": "compact",
+    "workbench.navigationControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.agentsControl.enabled": false
 }

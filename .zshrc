@@ -113,6 +113,7 @@ EDITOR='code'
 alias ls="lsd"
 alias cat="bat"
 alias cls="clear"
+alias cwd="pwd"
 alias cmatrix="unimatrix -n -s 96 -l o"
 
 POWERLEVEL9K_MODE="nerdfont-complete"

@@ -15,5 +15,6 @@
     "workbench.navigationControl.enabled": false,
     "chat.commandCenter.enabled": false,
     "workbench.layoutControl.enabled": false,
-    "chat.agentsControl.enabled": false
+    "chat.agentsControl.enabled": false,
+    "python.defaultInterpreterPath": "/home/gaming/Dev/Python/.venv/bin/python"
 }

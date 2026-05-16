@@ -6,7 +6,7 @@ local settings = {
   -- to bind multiple keys separate them by a space
 
   -- main keys to show playlist and command menu
-  key_showplaylist = "SHIFT+ENTER",
+  key_showplaylist = "p",
   key_openmenu = "",
 
   -- display playlist while key is held down
@@ -23,7 +23,7 @@ local settings = {
   key_unselectfile = "",
   key_playfile = "ENTER",
   key_removefile = "BS",
-  key_closeplaylist = "ESC SHIFT+ENTER",
+  key_closeplaylist = "ESC p",
 
   -- extra functionality keys
   key_sortplaylist = "",

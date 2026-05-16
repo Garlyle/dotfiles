@@ -1,0 +1,63 @@
+# --- General ---
+[options]
+fullscreen = false
+overlay = false
+scaling_mode = full
+loop_input = true
+
+# --- Appearance ---
+background = 000000
+overlay_text_color = ffffff
+overlay_background_color = 000000
+
+# --- Bindings ---
+
+[binds]
+# Navigation
+<space> = next
+<BackSpace> = prev
+<Prior> = prev
+<Next> = next
+<KP_Prior> = prev
+<KP_Next> = next
+
+# Pan
+<Down> = zoom -1
+<Up> = zoom 1
+<Left> = prev
+<Right> = next
+
+# First / last
+<Home> = goto 1
+<End> = goto -1
+
+# Zoom
+<Plus> = zoom 1
+<Minus> = zoom -1
+
+<KP_Add> = zoom 1
+<KP_Subtract> = zoom -1
+<KP_Divide> = zoom actual
+<KP_Multiply> = reset
+
+# Rotate
+r = rotate by 90
+R = rotate by -90
+
+# Flip
+<Shift+H> = flip horizontal
+<Shift+V> = flip vertical
+
+# Slideshow
+s = slideshow 5
+<Shift+S> = slideshow 0
+
+# Reload
+<Ctrl+r> = reload
+
+# Quit
+q = quit
+<Escape> = quit
+
+# Fullscreen toggle
+f = fullscreen
